@@ -1,6 +1,2 @@
-jkadfsdf
+Este é meu repositório para testes com Github.
 
-blah!
-fsdfdsfsdg
-fdgdfg
-dfgdfg$
